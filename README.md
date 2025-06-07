@@ -1,20 +1,10 @@
 ```markdown
 #  Plant Disease Classification Using MobileNetV2
 
-This repository contains a deep learning model built with MobileNetV2 to classify plant diseases from leaf images using transfer learning. It includes a trained `.h5` model, an interactive Jupyter Notebook for testing and evaluation, and a Python script for making predictions on new images.
+This repository contains a deep learning model built with MobileNetV2 to classify
+plant diseases from leaf images using transfer learning.
+It includes a trained `.h5` model, an interactive Jupyter Notebook for testing and evaluation, and a Python script for making predictions on new images.
 
-##  Project Structure
-
-```
-
-plant-disease-classifier/
-│
-├── model.h5              # Trained MobileNetV2 model
-├── predict.py            # Script for loading the model and predicting on new images
-├── test\_and\_demo.ipynb   # Jupyter Notebook for model evaluation and visualization
-└── README.md             # Project documentation
-
-````
 
 ##  Features
 
